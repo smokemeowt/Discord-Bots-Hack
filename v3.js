@@ -5,8 +5,8 @@ const configs = {
   "targetServerID": "TARGET SERVER ID",
   "accountID": "YOUR ID",
   "botNickname": "BOT NAME AFTER THE HACKING",
-  "botIcon": 'https://6.top4top.net/p_1415xrqem1.jpg',
-  "newServerIcon": "https://6.top4top.net/p_1415xrqem1.jpg",
+  "botIcon": ' ',
+  "newServerIcon": " ",
   "newServerName": "SERVER NAME AFTER THE HACKING",
   "token": "TARGET BOT TOKEN"
 }
